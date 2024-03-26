@@ -1,0 +1,43 @@
+body{
+    color: white;
+    background-color:  rgb(7, 16, 24);
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav {
+    background-image:url(./images/Caribe.jpg) ;
+    padding: 54px;
+    border: 0;
+
+}
+header {
+    padding: 54px;
+}
+img {
+    width: 250px;
+    height: 187px;
+}
+footer{
+    background-color:  rgb(19, 37, 53);
+    align-self: center;
+    padding: 16px;
+}
+div {
+    width: 54px;
+    height: 54px;
+    display: inline-block;
+    align-self: center;
+    padding: 16px;
+}
+a {
+    color: orangered;
+}
+#scrollUp {
+    text-decoration: none;
+    color: rgb(255, 209, 165);
+    background-color: orangered;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    border-radius: 30%;
+}

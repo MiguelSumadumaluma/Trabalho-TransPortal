@@ -1,0 +1,29 @@
+body {
+    color: orange;
+    background-color: rgb(7, 16, 24);
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav {
+    background-color: rgb(19, 37, 53);
+    padding: 54px;
+    border: 0;
+}
+ul{
+   display: flex;
+   justify-content: space-between;
+   list-style-type: none;
+   align-self: center;
+   padding: 16px;
+}
+a{
+    color: rgb(0, 238, 255);
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+}
+.center{
+    text-align: center;
+}
